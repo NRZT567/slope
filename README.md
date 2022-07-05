@@ -1,1 +1,1 @@
-slope game from github. that was put together by nrzt
+slope game that was put together by nrzt
